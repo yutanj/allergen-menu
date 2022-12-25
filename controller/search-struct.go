@@ -1,7 +1,8 @@
 package controller
 
 type Sushiro struct{
-
+    SevenAllergenicIngredients
+	TwentyOneAllergenicIngredients
 }
 
 //アレルゲン-特定原材料７品目
